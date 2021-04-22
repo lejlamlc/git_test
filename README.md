@@ -1,0 +1,1 @@
+This is Lejla's first git project!
